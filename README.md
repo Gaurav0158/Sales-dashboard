@@ -40,6 +40,6 @@ compare city-wise and model-wise sales, understand customer purchasing behavior,
 - Enabled leadership to make data-driven decisions related to inventory, marketing, and product focus.
 
 
-*Screenshot- https://github.com/Gaurav0158/Sales-dashboard/blob/main/Sales%20Data%20Visuals.jpg
+*Screenshot- ![Alt text]https://github.com/Gaurav0158/Sales-dashboard/blob/main/Sales%20Data%20Visuals.jpg
 
 
